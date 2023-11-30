@@ -25,7 +25,7 @@ class FirstPage extends StatelessWidget {
         children: [
           BookCard('book1', 'elman nayeem', '4.5', Icons.shopping_cart),
           SizedBox(height: 16.0),
-          BookCard('book 2', 'Author 2', '3.8', Icons.shopping_cart),
+          BookCard('book 002', 'writer', '3.8', Icons.shopping_cart),
         ],
       ),
     );
