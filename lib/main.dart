@@ -23,9 +23,9 @@ class FirstPage extends StatelessWidget {
       body: ListView(
         padding: EdgeInsets.all(16.0),
         children: [
-          BookCard('book001', 'elman nayeem', '4.5', Icons.shopping_cart),
+          BookCard('book0001', 'elman nayeem', '4.5', Icons.shopping_cart),
           SizedBox(height: 16.0),
-          BookCard('book 002', 'writer', '3.8', Icons.shopping_cart),
+          BookCard('book 000gi2', 'writer', '3.8', Icons.shopping_cart),
         ],
       ),
     );
